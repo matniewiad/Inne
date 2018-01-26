@@ -1,8 +1,8 @@
 # Inne
 
 Projekty własne
-Projekty na studia
 
+Projekty na studia
 
 grafy - ponad 50 funkcji operujących na grafach. Od podstawowych operacji po zaawansowane algorytmy.
 
