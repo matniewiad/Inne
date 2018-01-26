@@ -1,0 +1,56 @@
+Projekt 1
+hello world
+
+Projekt 2
+klasy, konstruktory, destruktory
+
+Projekt 3
+wskazniki - zmienne i tablice
+
+Projekt 4
+argumenty funkcji przez wskazniki i referencje, wskaznik const
+
+Projekt 5
+new/delete i troche wskaznikow
+
+Projekt 6
+tablica dynamiczna, ustawianie wskaznika na NULL po usunieciu
+
+Projekt 7
+klasa, kopiowanie stringow, funkcje z argumentami typu obiekt, funkcja statyczna, obiekty const i volatile (+funkcje do nich), funkcja zaprzyjazniona
+
+Projekt 8
+konstruktor kopiujacy
+
+Projekt 9
+tablice wskaznikow, tablica wskaznikow do stringow
+
+Projekt 10
+1. tablica obiektow; 2. new/delete, wskaznik const,
+
+Projekt 11
+??
+
+Projekt 12
+konwersje, K operator T()
+
+Projekt 13
+przeladowanie operatorow, klasa zespol
+
+Projekt 14
+dziedziczenie
+
+Projekt 15
+biblioteka string, funkcja znajdujaca liczbe najblizsza sredniej z n podanych liczb
+
+Projekt 16
+??
+
+Projekt 17
+sprawdzanie, czy punkt nalezy do prostokata, funkcje zaprzyjaznione
+
+Projekt 18
+polimorfizm
+
+Projekt 19
+STL - adaptery, stos, kolejka kolejka priorytetowa, wlasny komparator do typow danych zdefiniowanych przez uzytkownika

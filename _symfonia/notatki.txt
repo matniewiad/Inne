@@ -1,0 +1,28 @@
+inline
+wskazniki const i const wskazniki
+wskaznik this
+dane skladowe i funkcje static
+volatile
+const
+const w klasie i lista inicjalizacyjna
+konstrukcja obiektu, ktorego skladnikiem jest obiekt innej klasy - lista inicjalizacyjna (tylko!)
+konstruktor kopiujacy - wady konstruktora domniemanego, automatycznego 
+wskaznik staly pokazujacy na poczatek tablicy
+ustawianie wskaznika na poczatek przy delete
+agregat - tylko skladniki public, brak konstruktora
+konwersje, operator
+18.11 - str.451 - operator przypisania (dobry przyklad z new/delete)
+
+
+Lista par:
+	list<pair<int, int>> lista;
+	lista.push_back(make_pair(1,3));
+	lista.push_back(make_pair(10, 30));
+	list< pair<int, int> >::iterator it = lista.begin();
+
+	cout << "::::" << endl;
+	cout << (*it).first << endl;
+	cout << (*it).second << endl;
+	it++;
+	cout << (*it).first << endl;
+	cout << (*it).second << endl;
