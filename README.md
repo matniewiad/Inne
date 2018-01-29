@@ -15,3 +15,5 @@ Sterowanie Procesami Dyskretnymi - programy pisane na kursie SPD w czasie studi�
 Sortowanie - kilka algorytmów sortowania implementowanych podczas kursu Projektowanie algorytmów i metody sztucznej inteligencji
 
 Programowanie Obiektowe - część programów implementowanych podczas kursu Projektowanie Obiektowe
+
+Praca Magisterska - harmonogramowanie zadań w fabryce. Kod wymaga refactoringu.
