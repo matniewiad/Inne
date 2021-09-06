@@ -17,3 +17,5 @@ Sortowanie - kilka algorytmów sortowania implementowanych podczas kursu Projekt
 Programowanie Obiektowe - część programów implementowanych podczas kursu Projektowanie Obiektowe
 
 Praca Magisterska - harmonogramowanie zadań w fabryce. Kod wymaga refactoringu.
+
+Edited~2k21
